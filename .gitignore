@@ -1,0 +1,17 @@
+*$py.class
+*.swp
+*.retry
+
+.DS_Store
+.cache
+.vagrant
+
+*.py[cod]
+/*.egg-info
+/dist/
+/venv
+__pycache__/
+*.lprof
+*.prof
+
+tools/game_logs/*
